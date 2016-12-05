@@ -24,4 +24,11 @@ Forcing a push can be done by nesting commands as well:
 
 The above pushes the changes in local master to heroku master.
 
+### Some enhancements
+
+* Support the swagger 
+* Persistent support
+* Setup the cluster to help handle the millions of request
+
+
 
