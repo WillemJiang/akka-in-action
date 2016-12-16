@@ -24,11 +24,8 @@ Forcing a push can be done by nesting commands as well:
 
 The above pushes the changes in local master to heroku master.
 
-### Some enhancements
+###Enhancements
 
-* Support the swagger 
-* Persistent support
-* Setup the cluster to help handle the millions of request
-
+* Adding the Support of the swagger, now you can visit the [petstore swagger site](http://petstore.swagger.io/) and export the local service  http://localhost:5000/api-docs/swagger.json
 
 
